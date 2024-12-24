@@ -1,3 +1,4 @@
 # front-end-developer
-This is a frist git project.
-Auther MD Alamin 
+This is the first git project.
+<br>
+Author MD Alamin 
